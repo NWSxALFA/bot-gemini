@@ -1,3 +1,3 @@
+google-generativeai
 aiogram
-requests
-flask
+python-dotenv
