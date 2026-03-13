@@ -6,7 +6,7 @@ from aiogram.filters import Command
 
 # API Tokenlar
 TOKEN = "7678836579:AAEGPLXN-Pw5FNPKXlcIm7Q8Fv961Ug7IY0"
-GEMINI_API_KEY = "AIzaSyCccyK4vrlNiGjDTJD5QV8md7u4BRb_g0k"
+GEMINI_API_KEY = "AIzaSyDG5jGH1CMdW73w83fNspy9Vxse5L4QIQI"
 
 # Bot va AI sozlamalari
 bot = Bot(token=TOKEN)
